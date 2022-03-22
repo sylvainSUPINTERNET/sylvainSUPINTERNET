@@ -20,11 +20,11 @@
 
 <div align="center">
 
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=sylvainSUPINTERNET&show_icons=true&theme=radical&include_all_commits=true&count_private=true) 
+![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=sylvainSUPINTERNET&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) 
     
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylvainSUPINTERNET"></img>
 
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvainSUPINTERNET&theme=radical&layout=compact&count_private=true&hide=php,swift,vue,css,ruby,html,ApacheConf,Objective-C,Makefile,CMake,CoffeeScript)
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvainSUPINTERNET&theme=dracula&layout=compact&count_private=true&hide=php,swift,vue,css,ruby,html,ApacheConf,Objective-C,Makefile,CMake,CoffeeScript)
 
 </div>
 
