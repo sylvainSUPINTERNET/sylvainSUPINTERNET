@@ -1,24 +1,39 @@
+
+<!--
 <p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/sylvainSUPINTERNET/sylvainSUPINTERNET"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/sylvainSUPINTERNET/sylvainSUPINTERNET/graphs/contributors"><img src="https://img.shields.io/github/contributors/sylvainSUPINTERNET/sylvainSUPINTERNET?color=blue"></a>
+    <a href="https://github.com/sylvainSUPINTERNET/sylvainSUPINTERNET/stargazers"><img src="https://img.shields.io/github/stars/sylvainSUPINTERNET/sylvainSUPINTERNET.svg?logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=sylvainSUPINTERNET.sylvainSUPINTERNET" alt="visitors"/>   
 </p>
 
+
+
 ![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="center" height="48" width="48" ></a>
+-->
 
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=09FF07&background=000103&center=true&multiline=true&width=1200&height=300&lines=hi+%F0%9F%91%8B+!;I'm+Sylvain;Software+Engineer;5y+XP%2C+love+to+learn;...+and+video+games+%F0%9F%8E%AE++!;+Astronomy+enthusiast+🪐+!;)](https://git.io/typing-svg)
 
+
+
+
+ . | .
+--- | --- 
+![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=sylvainSUPINTERNET&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvainSUPINTERNET&theme=radical&layout=compact&count_private=true&hide=php,swift,vue,css,ruby,html,ApacheConf,Objective-C,Makefile,CMake,CoffeeScript)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sylvainSUPINTERNET"></img>
+
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sylvainSUPINTERNET&hide_border=true&theme=redical)
+
+
+
+<!--
 
 Property | Data
 --- | --- 
@@ -30,32 +45,19 @@ Property | Data
 **Tools & Platform**  | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 **Machine Learning / Deep Learning frameworks**  | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
+-->
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
+<div style="display:flex;justify-content:center">
 
- . | .
---- | --- 
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
+<a href="https://www.linkedin.com/in/sylvain-joly-3a7152aa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="BEPb" height="100" width="350" /></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+</div>
 
-
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>
 
 
 
 ---
+
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
 ---
-Would you ike to meet me?
 
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-  
