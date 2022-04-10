@@ -24,7 +24,7 @@
     
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylvainSUPINTERNET"></img>
 
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvainSUPINTERNET&theme=midnight-purple&layout=compact&count_private=true&hide=php,swift,vue,css,ruby,html,ApacheConf,Objective-C,Makefile,CMake,CoffeeScript,C)
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvainSUPINTERNET&theme=midnight-purple&layout=compact&count_private=true&hide=php,swift,vue,css,ruby,html,ApacheConf,Objective-C,Makefile,CMake,CoffeeScript,C,Shell)
 
 </div>
 
