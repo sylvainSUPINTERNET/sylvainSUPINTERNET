@@ -66,13 +66,3 @@ Property | Data
 
 
 </div>
-
-
-
-
-
----
-
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
----
-
