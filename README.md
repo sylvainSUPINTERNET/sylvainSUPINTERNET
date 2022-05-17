@@ -18,7 +18,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=sylvainSUPINTERNET&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true) 
     
@@ -27,7 +27,7 @@
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvainSUPINTERNET&theme=midnight-purple&layout=compact&count_private=true&hide=php,swift,vue,css,ruby,html,ApacheConf,Objective-C,Makefile,CMake,CoffeeScript,C)
 
 </div>
-
+ -->
 
 
 
