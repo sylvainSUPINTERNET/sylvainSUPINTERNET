@@ -17,7 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=09FF07&background=000103&center=true&size=38&multiline=true&width=1200&height=300&lines=hi+%F0%9F%91%8B+!;I'm+Sylvain;Software+Engineer;5y+XP%2C+love+to+learn;...+and+video+games+%F0%9F%8E%AE++!;+Astronomy+enthusiast+🪐+!;)](https://git.io/typing-svg)
 
 
-<div style="display:flex;justify-content:center">
+<div align="center">
     <a href="https://app.daily.dev/sylvaindevez"><img src="https://api.daily.dev/devcards/b958470e3b8d469e8d4b99861d25ec57.png?r=erk" width="400" alt="Sylvain Joly's Dev Card"/></a>
 </div>
 
