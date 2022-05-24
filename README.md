@@ -30,6 +30,11 @@
  -->
 
 
+</div>
+
+<div align="center">
+    <a href="https://app.daily.dev/sylvaindevez"><img src="https://api.daily.dev/devcards/b958470e3b8d469e8d4b99861d25ec57.png?r=erk" width="400" alt="Sylvain Joly's Dev Card"/></a>
+</div>
 
 
 <!--   GitHub stats graph -->
@@ -63,10 +68,4 @@ Property | Data
  <a href="https://steamcommunity.com/profiles/76561198000330381/" target="blank"><img align="center" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="BEPb" height="100" width="350" /></a>
    
 
-
-</div>
-
-<div align="center">
-    <a href="https://app.daily.dev/sylvaindevez"><img src="https://api.daily.dev/devcards/b958470e3b8d469e8d4b99861d25ec57.png?r=erk" width="400" alt="Sylvain Joly's Dev Card"/></a>
-</div>
 
