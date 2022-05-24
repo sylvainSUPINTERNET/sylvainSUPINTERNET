@@ -34,8 +34,8 @@
 
 <!--   GitHub stats graph -->
 <!-- ### 📈 GitHub Activity Graph: -->
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sylvainSUPINTERNET&hide_border=true&theme=redical)
-
+<!-- ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sylvainSUPINTERNET&hide_border=true&theme=redical)
+ -->
 
 
 <!--
