@@ -14,7 +14,7 @@
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=Hello!&fontSize=80" alt="waving" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=hello!&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient" style="max-width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=Software Engineer - fullstack&fontSize=50" alt="waving" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=hello!&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient" style="max-width: 100%;">
     </div>
     
     
