@@ -13,6 +13,10 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="center" height="48" width="48" ></a>
 -->
 
+<div align="center">
+<img src="https://camo.githubusercontent.com/0c391b5545096b63cac7def5d0f2eb5c4c43260323d456c2689cc841d2bbdf09/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74" alt="waving" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=xd!&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient" style="max-width: 100%;">
+    </div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=09FF07&background=000103&center=true&size=38&multiline=true&width=1200&height=300&lines=hi+%F0%9F%91%8B+!;I'm+Sylvain;Software+Engineer;5y+XP%2C+love+to+learn;...+and+video+games+%F0%9F%8E%AE++!;+Astronomy+enthusiast+🪐+!;)](https://git.io/typing-svg)
 
