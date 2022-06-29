@@ -35,10 +35,11 @@
 
 
 </div>
-
+<!--
 <div align="center">
     <a href="https://app.daily.dev/sylvaindevez"><img src="https://api.daily.dev/devcards/b958470e3b8d469e8d4b99861d25ec57.png?r=erk" width="400" alt="Sylvain Joly's Dev Card"/></a>
 </div>
+-->
 
 
 <!--   GitHub stats graph -->
