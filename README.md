@@ -12,10 +12,11 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="center" height="48" width="48" ></a>
 -->
 
+<!--
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=Software Engineer - fullstack&fontSize=50" alt="waving" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=hello!&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient" style="max-width: 100%;">
     </div>
-    
+    -->
     
 
 
