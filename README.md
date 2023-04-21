@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="460" height="300" src="https://preview.redd.it/3f9cja8rgaf21.jpg?auto=webp&s=b60923ef16a46b3dc4b98392ee824d633f22a9fa">
+</p>
 
 <!--
 <p align="center">
