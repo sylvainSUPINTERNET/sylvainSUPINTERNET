@@ -20,7 +20,7 @@
    
 
 <div align="center">
-  <img src="https://media.tenor.com/cWu6Jj-N4_kAAAAM/zavarka-matskivvitalik.gif" width="100%" />
+  <img src="https://media.tenor.com/hjjG_i4XmcEAAAAM/lizard-dance.gif" width="100%" />
 </div>
 
 
