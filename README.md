@@ -2,10 +2,13 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=09FF07&background=000103&center=true&size=38&multiline=true&width=1200&height=300&lines=hi+%F0%9F%91%8B+!;I'm+Sylvain;Software+Engineer;5y+XP%2C+love+to+learn;...+and+video+games+%F0%9F%8E%AE++!;+Astronomy+enthusiast+🪐+!;)](https://git.io/typing-svg) -->
 
-
 <div align="center">
-  <img src="https://media.tenor.com/hjjG_i4XmcEAAAAM/lizard-dance.gif" />
+  <img src="https://media.tenor.com/hjjG_i4XmcEAAAAM/lizard-dance.gif" width="30%" />
+  <img src="https://media.tenor.com/cWu6Jj-N4_kAAAAM/zavarka-matskivvitalik.gif" width="30%" />
+  <img src="https://media.tenor.com/nOMttAPhTTQAAAAM/12-lizard.gif" width="30%" />
 </div>
+
+
 
 <div align="center">
 
