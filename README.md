@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://media.tenor.com/hjjG_i4XmcEAAAAM/lizard-dance.gif" width="30%" />
   <img src="https://media.tenor.com/cWu6Jj-N4_kAAAAM/zavarka-matskivvitalik.gif" width="30%" />
-  <img src="https://media.tenor.com/nOMttAPhTTQAAAAM/12-lizard.gif" width="30%" />
+  <img src="https://media.tenor.com/sajtyoQgb_wAAAAM/dancing-lizard-lizard.gif" width="30%" />
 </div>
 
 
