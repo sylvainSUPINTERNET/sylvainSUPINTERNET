@@ -20,7 +20,7 @@
    
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e7/d1/74/e7d1741c679be8515c77c74a33eba7f6.gif" width="100%" />
+  <img src="https://media.tenor.com/EiIgGelxfO0AAAAj/ositos-blancos-osito.gif" width="100%" />
 </div>
 
 
