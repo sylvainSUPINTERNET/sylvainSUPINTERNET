@@ -20,7 +20,7 @@
    
 
 <div align="center">
-  <img src="[https://media.tenor.com/hjjG_i4XmcEAAAAM/lizard-dance.gif](https://i.pinimg.com/originals/e7/d1/74/e7d1741c679be8515c77c74a33eba7f6.gif)" width="100%" />
+  <img src="https://i.pinimg.com/originals/e7/d1/74/e7d1741c679be8515c77c74a33eba7f6.gif" width="100%" />
 </div>
 
 
