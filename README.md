@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,nginx,bash" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,nginx,bash,heroku" />
   </a>
 </p>
 
@@ -17,13 +17,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,python,typescript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,java,python,typescript,dotnet" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,rust" />
+    <img src="https://skillicons.dev/icons?i=solidity,rust,golang" />
   </a>
 </p>
 
