@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,solidjs,wasm" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,solidjs,wasm,vite,jest,apollo" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,spring,java,python,typescript,dotnet,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,java,python,typescript,dotnet,prisma,deno" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,redis,firebase" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,redis,firebase,sqlite" />
   </a>
 </p>
 
