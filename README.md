@@ -57,9 +57,11 @@
  </div>
    
 
+<!--
 <div align="center">
   <img src="[https://media3.giphy.com/avatars/jmckeehen/RkN6QlwOK3M5.jpg](https://i.imgur.com/gEbmgW1l.png)" width="100%" />
 </div>
+-->
 
 
 
