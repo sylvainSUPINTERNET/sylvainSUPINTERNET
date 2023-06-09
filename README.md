@@ -58,7 +58,7 @@
    
 
 <div align="center">
-  <img src="https://media.tenor.com/EiIgGelxfO0AAAAj/ositos-blancos-osito.gif" width="100%" />
+  <img src="https://media3.giphy.com/avatars/jmckeehen/RkN6QlwOK3M5.jpg" width="100%" />
 </div>
 
 
