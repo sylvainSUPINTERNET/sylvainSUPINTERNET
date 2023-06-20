@@ -45,7 +45,6 @@
 
 <a href="https://www.linkedin.com/in/sylvain-joly-3a7152aa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="BEPb" height="100" width="350" /></a>
  
-
   <!--
 <a href="https://stackoverflow.com/users/9951632/sylvain-joly" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="BEPb" height="100" width="350"/></a>
     
