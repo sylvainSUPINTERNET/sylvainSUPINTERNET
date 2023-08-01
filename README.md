@@ -39,7 +39,6 @@
 </p>
 
 
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sylvain-joly-3a7152aa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="BEPb" height="100" width="350" /></a>
