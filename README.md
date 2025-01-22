@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=09FF07&background=000103&center=true&size=38&multiline=true&width=1200&height=300&lines=hi+%F0%9F%91%8B+!;I'm+Sylvain;Software+Engineer;5y+XP%2C+love+to+learn;...+and+video+games+%F0%9F%8E%AE++!;+Astronomy+enthusiast+🪐+!;)](https://git.io/typing-svg) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,nginx,bash,heroku,nestjs" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,nginx,bash,heroku,nestjs,cloudflare" />
   </a>
 </p>
 
