@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,rust,golang,cassandra,spark" />
+    <img src="https://skillicons.dev/icons?i=solidity,rust,golang,cassandra" />
   </a>
 </p>
 
