@@ -66,9 +66,6 @@
 -->
 
 
-<a href="https://app.daily.dev/sylvaindevez"><img src="https://api.daily.dev/devcards/v2/LLL5iKwkfQpnXIwALlhhS.png?type=default&r=mp6" width="356" alt="Sylvain Joly's Dev Card"/></a>
-
-
 
 
 
